@@ -13,13 +13,13 @@ h3 {
   word-spacing: 10%;
 }
 img {
-  width: 25%;
+  width: 50%;
   border-radius: 8px;
 }
 
 img:hover {
   border: dotted green;
-  width: 15;
+  width: 30;
   transform: scaleX(-3.5);
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
