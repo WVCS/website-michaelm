@@ -19,9 +19,9 @@ img {
 
 img:hover {
   border: dotted green;
-  width: 45%;
+  width: 35%;
   transform: scaleX(-1.5);
-  length: 45%;
+  length: 30%;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
